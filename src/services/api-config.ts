@@ -28,7 +28,7 @@ export interface ApiConfig {
  * The default configuration for the app.
  */
 export const DEFAULT_API_CONFIG: ApiConfig = {
-    url: "http://tigercrm.tigergroup-company.com:4298/mobile",
+    url: "add api => link here",
     timeout: 10000
 }
 
